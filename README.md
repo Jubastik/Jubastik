@@ -1,4 +1,4 @@
-# Hi :wave:, I'm Maksim Gusev
+# Hi :wave:, I'm Artem Gordeev
 
 <a href="https://github.com/jubastik/jubastik/raw/master/MyCV.pdf"><img alt="Afiska" src="download-cv-btn.png" height="40"/></a>
 
