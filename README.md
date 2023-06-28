@@ -16,10 +16,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=remgus&theme=radical&hide_border=true" alt="remgus's Github stats"/>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Jubastik&theme=radical&hide_border=true" alt="Jubastik's Github stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="remgus's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remgus&theme=radical&layout=compact&hide_border=true" />
+      <img height="195px" align="right" alt="Jubastik's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jubastik&theme=radical&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
