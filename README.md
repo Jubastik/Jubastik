@@ -2,14 +2,14 @@
 
 <a href="https://github.com/Jubastik/Jubastik/raw/main/MyCV.pdf"><img alt="Afiska" src="download-cv-btn.png" height="40"/></a>
 
-## 📋 My projects
+<!-- ## 📋 My projects
 
 <table>
   <tr>
     <td><a href="https://github.com/fm-projects/teeth-check"><img alt="Teeth.Check" src="teeth-check.png"/></a></td>
     <td><a href="https://github.com/fm-projects/afishka"><img alt="Afiska" src="afishka.png"/></a></td>
   </tr>
-</table>
+</table> -->
 
 ## 📊 Stats
 
