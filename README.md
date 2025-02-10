@@ -1,6 +1,6 @@
 # Hi :wave:, I'm Artem Gordeev
 
-<a href="https://github.com/Jubastik/Jubastik/raw/main/MyCV.pdf"><img alt="Afiska" src="download-cv-btn.png" height="40"/></a>
+[//]: # (<a href="https://github.com/Jubastik/Jubastik/raw/main/MyCV.pdf"><img alt="Afiska" src="download-cv-btn.png" height="40"/></a>)
 
 <!-- ## 📋 My projects
 
